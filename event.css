@@ -1,6 +1,6 @@
 body {
   background-color: #cfabab;
-  color: rgb(16, 19, 3);
+  color: rgb(161, 17, 17);
   font-family: Arial, Helvetica, sans-serif;
   font-size: 16px;
   line-height: 1.6em;
@@ -14,13 +14,13 @@ body {
 }
 
 #main-header {
-  background-color: rgb(2, 6, 51);
-  color: rgb(218, 205, 205);
+  background-color: rgb(175, 85, 52);
+  color: rgb(20, 1, 1);
   text-align: center;
 }
 
 #navbar {
-  background-color: rgba(167, 157, 13, 0.329);
+  background-color: rgb(19, 9, 9);
   color: #fff;
 }
 
@@ -46,13 +46,12 @@ body {
 }
 
 #showcase {
-  background-image: url("/photos/photo-1601045378965-58f245425f7f.jpeg");
+  background-image: url("/photos/BBWines-Our+Events.png");
   background-position: center;
   background-size: cover;
+  min-height: 300px;
   margin-bottom: 30px;
   text-align: center;
-  width: 100%;
-  height: auto;
 }
 
 #showcase h1 {
@@ -72,7 +71,7 @@ body {
 #sidebar {
   float: right;
   width: 30%;
-  background: #333;
+  background: rgb(41, 107, 10);
   color: #fff;
   padding: 10px;
   box-sizing: border-box;
@@ -80,7 +79,7 @@ body {
 }
 
 #main-footer {
-  background: #333;
+  background: rgb(206, 15, 15);
   color: #fff;
   text-align: center;
   padding: 20px;
